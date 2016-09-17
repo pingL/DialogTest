@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">DialogTest</string>
+
+    <!--英雄会前-->
+    <integer-array name="heroIcon">
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+    </integer-array>
+
+    <string-array name="heroIconName">
+        <item>简介</item>
+        <item>日程</item>
+        <item>活动</item>
+        <item>路线</item>
+        <item>玩转</item>
+        <item>专题</item>
+    </string-array>
+
+    <string-array name="heroUrl">
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+    </string-array>
+
+    <!--英雄会正在进行时-->
+    <integer-array name="heroIcon1">
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+        <item>@drawable/play</item>
+
+    </integer-array>
+
+    <string-array name="heroIconName1">
+        <item>快讯</item>
+        <item>直播</item>
+        <item>发现</item>
+        <item>赛事</item>
+        <item>日程</item>
+        <item>专题</item>
+        <item>问询</item>
+        <item>玩转</item>
+        <item>蜂度</item>
+
+    </string-array>
+
+    <string-array name="heroUrl1">
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+        <item>http://www.fblife.com</item>
+    </string-array>
+</resources>
